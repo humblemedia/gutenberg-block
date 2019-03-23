@@ -1,2 +1,2 @@
 # gutenberg-block
-Test Gutenberg Block Project
+This repo is a working copy of all of my tests building Gutenberg blocks.
