@@ -60,12 +60,9 @@ wp-content/mysql.sql
 /wp-includes
 /wp-content/index.php
 /wp-content/themes/*
-!/wp-content/themes/Dynamic/
 /wp-content/themes/index.php
 /wp-content/plugins/*
-!/wp-content/plugins/WPOB/
-!/wp-content/plugins/dynamic-cpts/
-!/wp-content/plugins/acf-integration/
+!/wp-content/plugins/my-block
 
 #Add additional plugins here
 
